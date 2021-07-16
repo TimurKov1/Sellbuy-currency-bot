@@ -8,7 +8,6 @@
 5. Возможность выбрать банк, и узнать курс валюты в нем
 
 Чтобы запустить бота введите команду 
-python main.py
+'python main.py'
 или просто найдите бота в телеграмм 
-@sellbuy_currency_bot
-kjgsdf
+'@sellbuy_currency_bot'
